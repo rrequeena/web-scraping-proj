@@ -5,3 +5,6 @@ It was a project that I found on upwork wich need a scraper for this [Page](http
 * Image: For each breed download the image.
 * First paragraph: Like the short description
 * And the breeds by this [filters](https://prnt.sc/yzx3j3)
+## Before running the script
+You've to install the packages / libraries used in the project with:
+`pip install -r requirements.txt`
