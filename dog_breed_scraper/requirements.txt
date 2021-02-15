@@ -1,0 +1,7 @@
+# Needed packages for the script
+matplotlib
+scrapy
+pandas
+time
+requests
+shutil
