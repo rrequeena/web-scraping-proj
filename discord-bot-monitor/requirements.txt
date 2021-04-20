@@ -1,0 +1,5 @@
+# Needed packages for the script
+scrapy
+time
+requests
+dhooks
